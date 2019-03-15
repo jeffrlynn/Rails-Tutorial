@@ -7,3 +7,9 @@
 
 
 Ruby on Rails Tutorial (Rails 5) by Michael Hartl
+
+Tutorial projects using:
+* Ruby on Rails
+* AWS Cloud9
+* AWS EC2
+* Heroku
